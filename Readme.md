@@ -74,4 +74,4 @@ HealthScan AI is a full-stack web application that helps users monitor their vit
 
 ## Frontend Deployment Link:
 
-### health-scan-ai-rho.vercel.app
+### https://health-scan-ai-rho.vercel.app/
