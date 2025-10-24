@@ -65,3 +65,13 @@ HealthScan AI is a full-stack web application that helps users monitor their vit
 - Node.js (v14 or higher)
 - MongoDB Atlas account (or local MongoDB)
 - npm
+
+
+## Backend Deployment Link:
+
+### https://healthscan-ai-7tbl.onrender.com
+
+
+## Frontend Deployment Link:
+
+### health-scan-ai-rho.vercel.app
